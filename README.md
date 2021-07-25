@@ -5,7 +5,12 @@
 
 ### 🤡 I want to play a game - you don't know me but...
 
-### 
+Choisissez l'une des thématiques suivantes :
+
+### Blazor
+Blazor Server vs Blazor WebAssembly
+Pourquoi ne pas remplacer vos View Components par Blazor?
+
 
 ### REST
 Voici les 6 principes d'une API respectant l'architecture REST.
