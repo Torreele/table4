@@ -20,7 +20,7 @@ Voici les 6 principes d'une API REST.
 Certains d'entre-vous ont implémentés certains principes REST sans même le savoir. 
 Prenez connaissance de ces principes et échangez sur l'implémentation qui en a été faite chez vos différents clients.
 
-Si vous déjà utilisé le protocole de transfert SOAP, pourquoi ne peut-on pas comparer ces deux 
+Si vous avez déjà utilisé le protocole d'échange SOAP, pouvez-vous expliquer les différences notables avec REST?
 Pistes du staff : ```XML vs any machine-readable format```,```HTTP POST vs any HTTP VERBs```,```Access Protocol vs Architecture```,```...``` 
 
 
