@@ -8,7 +8,7 @@
 ### 
 
 ### REST
-Voici les 6 principes d'une API REST.
+Voici les 6 principes d'une API respectant l'architecture REST.
 
 1. Client–server
 2. Stateless
