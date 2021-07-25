@@ -1,9 +1,11 @@
 # Table 4
-## Concrete programming
+## Concrete developers
 
 ### ⏱ 15' 
 
 ### 🤡 I want to play a game - you don't know me but...
+
+### 
 
 ### REST
 Voici les 6 principes d'une API REST.
@@ -18,42 +20,7 @@ Voici les 6 principes d'une API REST.
 Certains d'entre-vous ont implémentés certains principes REST sans même le savoir. 
 Prenez connaissance de ces principes et échangez sur l'implémentation qui en a été faite chez vos différents clients.
 
-
-### Reference type
-in
-ref
-out
-
-### http verbs
-Delete ?
-Get
-Head
-Options
-Patch
-Post
-Put
+Si vous déjà utilisé le protocole de transfert SOAP, pourquoi ne peut-on pas comparer ces deux 
+Pistes du staff : ```XML vs any machine-readable format```,```HTTP POST vs any HTTP VERBs```,```Access Protocol vs Architecture```,```...``` 
 
 
-
-Réponses
-
-Delete
-Requests that a specified URI be deleted.
-
-Get
-Retrieves the information or entity that is identified by the URI of the request.
-
-Head
-Retrieves the message headers for the information or entity that is identified by the URI of the request.
-
-Options
-Represents a request for information about the communication options available on the request/response chain identified by the Request-URI.
-
-Patch
-Requests that a set of changes described in the request entity be applied to the resource identified by the Request- URI.
-
-Post
-Posts a new entity as an addition to a URI.
-
-Put
-Replaces an entity that is identified by a URI.
