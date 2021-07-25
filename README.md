@@ -7,6 +7,9 @@
 
 Choisissez l'une des thématiques suivantes :
 
+Quel design Pattern ?
+Quel Framework ?
+
 ### Blazor
 Blazor Server vs Blazor WebAssembly
 Pourquoi ne pas remplacer vos View Components par Blazor?
