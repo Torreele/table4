@@ -7,8 +7,10 @@
 
 Choisissez l'une des thématiques suivantes :
 
-Quel design Pattern ?
-Quel Framework ?
+### Design Pattern
+Strategy Pattern
+
+### DDD
 
 ### Blazor
 Blazor Server vs Blazor WebAssembly
