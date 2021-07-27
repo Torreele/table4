@@ -14,6 +14,7 @@ Exemples de sujets d'échange :
 - IaaS, PaaS, SaaS
 - Azure Redis Cache vs SQL Server
 - CosmosDB (stored JSON documents)
+- les Blobs
 
 ### 1 - REST
 Voici les 6 principes d'une API respectant l'architecture REST.
@@ -33,20 +34,24 @@ Pistes du staff : ```XML vs any machine-readable format```,```HTTP POST vs any H
 
 ### 2 - Blazor
 1. Qu'est-ce que Blazor ?
-2. Blazor Server vs Blazor WebAssembly ?
-3. Qu'est-ce que le Data binding avec Blazor ?
-4. 
+2. Blazor vs Javascript (avis en tant que dev Web)
+3. Blazor Server vs Blazor WebAssembly ?
+4. Qu'est-ce que le Data binding avec Blazor ?
 
-### 2 - DDD
+### 3 - DDD
 Pistes pour l'échange :
 Pourquoi le DDD?
-Quelles alternatives ?
-### 2 - Design Pattern
+Les Microservices orientés DDD
+
+### 4 - Design Pattern
 Choisissez parmis des designs patterns que vous connaissez, et échangez sur l'implémentation que vous avez pu en faire.
 Quelques exemples :
 - Command
 - Decorator
-- Mediator, State, Observer
+- Mediator
+- Proxy
+- State
+- Observer
 
 
 
