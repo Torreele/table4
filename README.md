@@ -16,6 +16,28 @@ Exemples de sujets d'échange :
 - CosmosDB (stored JSON documents)
 - les Blobs
 
+### ⚡ Blazor
+1. Qu'est-ce que Blazor ?
+2. Blazor vs Javascript (avis en tant que dev Web)
+3. Blazor Server vs Blazor WebAssembly ?
+4. Qu'est-ce que le Data binding avec Blazor ?
+
+### ⚡ DDD
+Pistes pour l'échange :
+- Domain-driven design
+- DDD vs Data-driven design (comparez, pour/contre en fonction du projet)
+- Votre avis : Les Microservices orientés DDD
+
+### ⚡ Design Pattern
+Choisissez parmis des designs patterns que vous connaissez, et échangez sur l'implémentation que vous avez pu en faire.
+Quelques exemples :
+- Command
+- Decorator
+- Mediator
+- Proxy
+- State
+- Observer
+
 ### ⚡ REST
 Voici les 6 principes d'une API respectant l'architecture REST.
 
@@ -31,28 +53,6 @@ Prenez connaissance de ces principes et échangez sur l'implémentation qui en a
 
 Si vous avez déjà utilisé le protocole d'échange SOAP, pouvez-vous expliquer les différences notables avec REST?
 Pistes du staff : ```XML vs any machine-readable format```,```HTTP POST vs any HTTP VERBs```,```Access Protocol vs Architecture```,```...``` 
-
-### ⚡ Blazor
-1. Qu'est-ce que Blazor ?
-2. Blazor vs Javascript (avis en tant que dev Web)
-3. Blazor Server vs Blazor WebAssembly ?
-4. Qu'est-ce que le Data binding avec Blazor ?
-
-### ⚡ DDD
-Pistes pour l'échange :
-Pourquoi le DDD?
-Les Microservices orientés DDD
-
-### ⚡ Design Pattern
-Choisissez parmis des designs patterns que vous connaissez, et échangez sur l'implémentation que vous avez pu en faire.
-Quelques exemples :
-- Command
-- Decorator
-- Mediator
-- Proxy
-- State
-- Observer
-
 
 
 
