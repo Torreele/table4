@@ -5,8 +5,15 @@
 
 ### 🤡 I want to play a game - you don't know me but...
 
-Choisissez l'une des thématiques suivantes connues par au moins un des membres de l'équipe :
+Le but de ce challenge est l'expension et l'ouverture de votre connaisance !
+Choisissez parmis les thématiques suivantes connues par au moins un des membres de l'équipe :
 
+### 0 - Azure
+Exemples de sujets d'échange :
+- Le coud computing
+- IaaS, PaaS, SaaS
+- Azure Redis Cache vs SQL Server
+- CosmosDB (stored JSON documents)
 
 ### 1 - REST
 Voici les 6 principes d'une API respectant l'architecture REST.
@@ -24,6 +31,12 @@ Prenez connaissance de ces principes et échangez sur l'implémentation qui en a
 Si vous avez déjà utilisé le protocole d'échange SOAP, pouvez-vous expliquer les différences notables avec REST?
 Pistes du staff : ```XML vs any machine-readable format```,```HTTP POST vs any HTTP VERBs```,```Access Protocol vs Architecture```,```...``` 
 
+### 2 - Blazor
+1. Qu'est-ce que Blazor ?
+2. Blazor Server vs Blazor WebAssembly ?
+3. Qu'est-ce que le Data binding avec Blazor ?
+4. 
+
 ### 2 - DDD
 Pistes pour l'échange :
 Pourquoi le DDD?
@@ -36,9 +49,6 @@ Quelques exemples :
 - Mediator, State, Observer
 
 
-### 2 - Blazor
-Blazor Server vs Blazor WebAssembly
-Pourquoi ne pas remplacer vos View Components par Blazor?
 
 
 
