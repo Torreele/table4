@@ -5,14 +5,23 @@
 
 ### 🤡 I want to play a game - you don't know me but...
 
-Choisissez l'une des thématiques suivantes :
+Choisissez l'une des thématiques suivantes connues par au moins un des membres de l'équipe :
 
-### Design Pattern
-Strategy Pattern
+### 1 - Design Pattern
+Choisissez parmis des designs patterns que vous connaissez, et échangez sur l'implémentation que vous avez pu en faire.
+Quelques exemples :
+- Command
+- Decorator
+- Mediator
+- State
+- Observer
 
-### DDD
+### 2 - DDD
+Pistes pour l'échange :
+Pourquoi le DDD?
+Quelles alternatives ?
 
-### Blazor
+### 2 - Blazor
 Blazor Server vs Blazor WebAssembly
 Pourquoi ne pas remplacer vos View Components par Blazor?
 
