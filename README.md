@@ -6,7 +6,9 @@
 ### 🤡 I want to play a game - you don't know me but...
 
 Le but de ce challenge est l'expension et l'ouverture de votre connaisance !
-Choisissez parmis les thématiques suivantes connues par au moins un des membres de l'équipe :
+Choisissez parmis les thématiques suivantes connues par au moins un des membres de l'équipe.
+
+---
 
 ### ⚡ Azure
 Exemples de sujets d'échange :
